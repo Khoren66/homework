@@ -20,30 +20,3 @@
 .App-link {
   color: #09d3ac;
 }
-
-.list{
-  width: 60%;
-  display: flex;
-  float: right;
-  padding: 10px;
-  /* flex-direction: row-reverse; */
-  flex-wrap: wrap;
-}
-
-.center{
-  display: flex;
-  justify-content: center;
- 
-}
-.card{
-  display: flex;
-  width: 200px;
-  /* height: 300px; */
-  margin: 5px;
-}
-.card_button{
-  display: flex;
-  justify-content: space-evenly;
-}
-
-
